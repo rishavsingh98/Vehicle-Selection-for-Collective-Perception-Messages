@@ -1,0 +1,1 @@
+{"vehicle": {"Id": "v2", "x_coordinate": 193, "y_coordinate": 150, "radius": 25}, "Object": [{"Id": "o16", "x_coordinate": 203, "y_coordinate": 138, "timestamp": 14, "type": "person", "zone": "safe"}, {"Id": "o6", "x_coordinate": 178, "y_coordinate": 171, "timestamp": 26, "type": "person", "zone": "safe"}]}
